@@ -37,6 +37,7 @@
  - To other IDBank accounts 
  - To other Idram accounts
  - ...
+
 In this document we only cover transfer to other bank cards.
 
 ![Screen Shot 2022-12-03 at 16 38 35](https://user-images.githubusercontent.com/10261553/205441405-65402a4e-b6a0-468f-8862-c1dbac90291f.png)
@@ -57,6 +58,7 @@ To transfer from your account or wallet, you need to provide the following data 
 - Reciever card number
 - Amount
 - Purpose
+
 ![From your account or wallet](https://user-images.githubusercontent.com/10261553/205455965-29f3ff66-0985-496f-a6e9-2514ccd689e1.png)
 
 Then click on **Transfer**. The following popup window appears, enter yor pin number and click confirm:
@@ -66,6 +68,7 @@ Then click on **Transfer**. The following popup window appears, enter yor pin nu
 In case of having no errors you see the following window and the transfer process is completed successfully:
 
 ![successfull transaction](https://user-images.githubusercontent.com/10261553/205456165-dba9aeb0-9476-4a1d-9677-b1a6aa0d747f.png)
+
 #### From other bank card
 
 To trasnfer using other bank card you need to add the source card data including the following:
