@@ -7,7 +7,7 @@
  1. Go to [https://www.idram.am/](https://www.idram.am/) 
  2. Click on login on the top navbar 
  3. Enter your phone number and click next. 
-<img width="604" alt="Screen Shot 2022-12-03 at 16 03 31" src="https://user-images.githubusercontent.com/10261553/205440478-89862883-f6c4-4d7b-8bd7-290910960ffc.png">
+![enter image description here](https://user-images.githubusercontent.com/10261553/205440478-89862883-f6c4-4d7b-8bd7-290910960ffc.png)
  4. Enter your password and click next. 
 ![Screen Shot 2022-12-03 at 16 16 22](https://user-images.githubusercontent.com/10261553/205440614-db953e66-0804-410e-a777-b39b22807d70.png)
 
