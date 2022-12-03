@@ -1,4 +1,4 @@
-# How to transfer money using Idram
+# How to transfer money using Idram website
 
 - [How to transfer money using Idram](#how-to-transfer-money-using-idram)
 	- [Authentication:](#authentication)
