@@ -1,5 +1,15 @@
 # How to transfer money using Idram
 
+- [Authentication:](#authentication)
+- [Transfer method](#transfer-method)
+- [Transfer](#transfer)
+	- [To other bank cards](#to-other-bank-cards)
+		- [From your account or wallet](#from-your-account-or-wallet)
+		- [From other bank card](#from-other-bank-card)
+	- [To other IDBank accounts](#to-other-idbank-accounts)
+		- [With mobile number](#with-mobile-number)
+		- [With account number](#with-account-number)
+	- [To other Idram accounts](#to-other-idram-accounts)
 
 
 ## Authentication:
