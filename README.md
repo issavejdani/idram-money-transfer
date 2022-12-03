@@ -76,6 +76,7 @@ To trasnfer using other bank card you need to add the source card data including
 - Expiration date
 - CVV
 - Card holder name 
+
 And destincation card data:
 - Incoming card number
 - Amount
