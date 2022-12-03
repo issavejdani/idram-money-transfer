@@ -27,11 +27,15 @@
 ## Transfer method
 
  1. Click on Payment and Transfer
+
+![enter image description here](https://user-images.githubusercontent.com/10261553/205441377-69e813f2-b231-40a7-9711-7fe544b208d9.png)
+
  2. Choose your payment methoed.
 	You have multiple options. You can transfer:
 	a.  To other bank cards
 	b.  To other IDBank accounts
 	c.  To other Idram accounts
+![Screen Shot 2022-12-03 at 16 38 35](https://user-images.githubusercontent.com/10261553/205441405-65402a4e-b6a0-468f-8862-c1dbac90291f.png)
 
 ## Transfer
 
