@@ -7,7 +7,7 @@
  1. Go to [https://www.idram.am/](https://www.idram.am/) 
  2. Click on login on the top navbar 
  3. Enter your phone number and click next. 
-<img width="602" alt="Screen Shot 2022-12-03 at 16 03 31" src="https://user-images.githubusercontent.com/10261553/205440246-c187e095-8370-448e-b86e-dbf14023ea6b.png">
+<img width="604" alt="Screen Shot 2022-12-03 at 16 03 31" src="https://user-images.githubusercontent.com/10261553/205440478-89862883-f6c4-4d7b-8bd7-290910960ffc.png">
 
  4. Enter your password and click next. 
  5. Enter your pin (6-digit pin, which was already defined by you when you registered) and click next.
