@@ -1,15 +1,16 @@
 # How to transfer money using Idram
 
-- [Authentication:](#authentication)
-- [Transfer method](#transfer-method)
-- [Transfer](#transfer)
-	- [To other bank cards](#to-other-bank-cards)
-		- [From your account or wallet](#from-your-account-or-wallet)
-		- [From other bank card](#from-other-bank-card)
-	- [To other IDBank accounts](#to-other-idbank-accounts)
-		- [With mobile number](#with-mobile-number)
-		- [With account number](#with-account-number)
-	- [To other Idram accounts](#to-other-idram-accounts)
+- [How to transfer money using Idram](#how-to-transfer-money-using-idram)
+	- [Authentication:](#authentication)
+	- [Transfer method](#transfer-method)
+	- [Transfer](#transfer)
+		- [To other bank cards](#to-other-bank-cards)
+			- [From your account or wallet](#from-your-account-or-wallet)
+			- [From other bank card](#from-other-bank-card)
+		- [To other IDBank accounts](#to-other-idbank-accounts)
+			- [With mobile number](#with-mobile-number)
+			- [With account number](#with-account-number)
+		- [To other Idram accounts](#to-other-idram-accounts)
 
 
 ## Authentication:
@@ -30,11 +31,13 @@
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/205441377-69e813f2-b231-40a7-9711-7fe544b208d9.png)
 
- 2. Choose your payment methoed.
-You have multiple options. You can transfer:
+ 2. Choose your payment method.
+	As you can see in the following image, you have multiple options. You can transfer:
  - To other bank cards 
  - To other IDBank accounts 
  - To other Idram accounts
+ - ...
+In this document we only cover transfer to other bank cards.
 
 ![Screen Shot 2022-12-03 at 16 38 35](https://user-images.githubusercontent.com/10261553/205441405-65402a4e-b6a0-468f-8862-c1dbac90291f.png)
 
@@ -43,35 +46,41 @@ You have multiple options. You can transfer:
 ### To other bank cards
 
 This method is avalable to transfer to those who do not have Idram account.
-Using this method you have two options for the source of your transfer:
+As you can see in the following image , you have two options for the source of your transfer(tabs on the top):
+
+![enter image description here](https://user-images.githubusercontent.com/10261553/205454945-2633168d-1ef1-4189-81f7-470a3729290a.png)
 
 #### From your account or wallet
 
-To transfer from your account or wallet, you need to provide the following data:	 
+To transfer from your account or wallet, you need to provide the following data for destination card:	 
 - Your source wallet or card
 - Reciever card number
 - Amount
 - Purpose
+![From your account or wallet](https://user-images.githubusercontent.com/10261553/205455965-29f3ff66-0985-496f-a6e9-2514ccd689e1.png)
 
+Then click on **Transfer**. The following popup window appears, enter yor pin number and click confirm:
+
+![enter you idram pin code](https://user-images.githubusercontent.com/10261553/205456092-9bd25cb5-9b3c-4e9d-8ddf-194895128a4f.png)
+
+In case of having no errors you see the following window and the transfer process is completed successfully:
+
+![successfull transaction](https://user-images.githubusercontent.com/10261553/205456165-dba9aeb0-9476-4a1d-9677-b1a6aa0d747f.png)
 #### From other bank card
 
-To trasnfer using other bank card you need to add the card data including the following:
+To trasnfer using other bank card you need to add the source card data including the following:
 - Card number
 - Expiration date
 - CVV
 - Card holder name 
+And destincation card data:
+- Incoming card number
+- Amount
+- Purpose
 
-Click on **Transfer** In either of to these cases to start the transfer process. The trasnfer process is complete if there are not any problems with data you have just entered. 
+Once you click on **Transfer** you recieve a 2FA code thorugh sms, enter the code and click transfer. Other steps are exactly like the previous method. 
 
-### To other IDBank accounts
-This method is avalable to transfer to those who have Idram account.
-Using this method you have two options for the destination of your transfer:
-#### With mobile number
-Enter your reciepeint phone number and click search. 
+![enter image description here](https://user-images.githubusercontent.com/10261553/205455022-052c408c-5d6c-4465-a41d-d3f66a587475.png)
 
-#### With account number
-
-
-### To other Idram accounts
 
 
