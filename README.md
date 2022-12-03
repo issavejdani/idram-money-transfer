@@ -12,6 +12,7 @@
 ![Screen Shot 2022-12-03 at 16 16 22](https://user-images.githubusercontent.com/10261553/205440614-db953e66-0804-410e-a777-b39b22807d70.png)
 
  5. Enter your pin (6-digit pin, which was already defined by you when you registered) and click next.
+![enter image description here](https://user-images.githubusercontent.com/10261553/205440935-8b7c771c-7f11-4bc3-b422-236d6724e62b.png)
 
 ## Transfer method
 
