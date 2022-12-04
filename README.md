@@ -80,7 +80,7 @@ And destincation card data:
 - Amount
 - Purpose
 
-Once you click on **Transfer** you recieve a 2FA code thorugh sms, enter the code and click transfer. Other steps are exactly like the previous method. 
+Once you click on **Transfer**, you receive a 2FA code through SMS, enter the code and click transfer. Other steps are exactly like the previous method.
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/205455022-052c408c-5d6c-4465-a41d-d3f66a587475.png)
 
