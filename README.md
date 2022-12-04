@@ -4,7 +4,7 @@
 
 - [How to transfer money using Idram](#how-to-transfer-money-using-idram)
 	- [Authentication](#authentication)
-	- [Transfer method](#transfer-method)
+	- [Transfer methods](#transfer-method)
 	- [Transfer](#transfer)
 		- [To other bank cards](#to-other-bank-cards)
 			- [From your account or wallet](#from-your-account-or-wallet)
@@ -27,7 +27,8 @@
  5. Enter your pin (6-digit pin, which was already defined by you when you registered) and click next.
 ![enter image description here](https://user-images.githubusercontent.com/10261553/205440935-8b7c771c-7f11-4bc3-b422-236d6724e62b.png)
 
-## Transfer method
+## Transfer methods
+Choose from a variety of ways to transfer your money quickly and conveniently. Depending on your situation, you can choose the easiest and fastest method to trasnfer your money.
 
  1. Click on Payment and Transfer
 
