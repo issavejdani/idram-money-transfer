@@ -69,13 +69,13 @@ In case of having no errors you see the following window and the transfer proces
 
 #### From other bank card
 
-To trasnfer using other bank card you need to add the source card data including the following:
+To transfer using other bank cards, you need to add the source card data, including the following:
 - Card number
 - Expiration date
 - CVV
-- Card holder name 
+- Card holder name
 
-And destincation card data:
+And destination card data:
 - Incoming card number
 - Amount
 - Purpose
