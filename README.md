@@ -1,6 +1,6 @@
 ![l-rL58Z4zmQ3](https://user-images.githubusercontent.com/10261553/205502105-776cbe07-29bd-4a09-90ed-50da51159132.jpeg)
 
-# How to transfer money using Idram website
+# How to transfer money using Idram (web version)
 
 - [How to transfer money using Idram](#how-to-transfer-money-using-idram)
 	- [Authentication:](#authentication)
