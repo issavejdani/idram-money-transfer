@@ -15,7 +15,7 @@
 		- [To other Idram accounts](#to-other-idram-accounts)
 
 
-## Authentication:
+## Authentication
 
  1. Go to [https://www.idram.am/](https://www.idram.am/) 
  2. Click on login on the top navbar 
