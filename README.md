@@ -28,7 +28,7 @@
 ![enter image description here](https://user-images.githubusercontent.com/10261553/205440935-8b7c771c-7f11-4bc3-b422-236d6724e62b.png)
 
 ## Transfer methods
-Choose from a variety of ways to transfer your money quickly and conveniently. Depending on your situation, you can choose the easiest and fastest method to trasnfer your money.
+Choose from a variety of ways to transfer your money quickly and conveniently. You can choose the easiest and fastest method to transfer your money, depending on your situation.
 
  1. Click on Payment and Transfer
 
