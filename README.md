@@ -3,7 +3,7 @@
 # How to transfer money using Idram (web version)
 
 - [How to transfer money using Idram](#how-to-transfer-money-using-idram)
-	- [Authentication:](#authentication)
+	- [Authentication](#authentication)
 	- [Transfer method](#transfer-method)
 	- [Transfer](#transfer)
 		- [To other bank cards](#to-other-bank-cards)
