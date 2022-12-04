@@ -44,26 +44,26 @@ In this document we only cover transfer to other bank cards.
 
 ### To other bank cards
 
-This method is avalable to transfer to those who do not have Idram account.
-As you can see in the following image , you have two options for the source of your transfer(tabs on the top):
+Using this method, you can transfer money to those who do not have an Idram account.
+As you can see in the following image, you have two options for the source of your transfer(tabs on the top):
 
 ![enter image description here](https://user-images.githubusercontent.com/10261553/205454945-2633168d-1ef1-4189-81f7-470a3729290a.png)
 
 #### From your account or wallet
 
-To transfer from your account or wallet, you need to provide the following data for destination card:	 
+To transfer from your account or wallet, you need to provide the following data for the destination card:	 
 - Your source wallet or card
-- Reciever card number
+- Receiver card number
 - Amount
 - Purpose
 
 ![From your account or wallet](https://user-images.githubusercontent.com/10261553/205455965-29f3ff66-0985-496f-a6e9-2514ccd689e1.png)
 
-Then click on **Transfer**. The following popup window appears, enter yor pin number and click confirm:
+Then click on **Transfer**. The following popup window appears; enter your PIN and click confirm:
 
 ![enter you idram pin code](https://user-images.githubusercontent.com/10261553/205456092-9bd25cb5-9b3c-4e9d-8ddf-194895128a4f.png)
 
-In case of having no errors you see the following window and the transfer process is completed successfully:
+In case of having no errors, you see the following window, and the transfer process is completed successfully:
 
 ![successfull transaction](https://user-images.githubusercontent.com/10261553/205456165-dba9aeb0-9476-4a1d-9677-b1a6aa0d747f.png)
 
